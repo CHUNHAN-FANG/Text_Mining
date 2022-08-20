@@ -19,5 +19,5 @@
   [Gallagher的CorEx介绍文档](https://nbviewer.org/github/CHUNHAN-FANG/Text_Mining/blob/main/Anchored_CorEx_Ryan%20J.%20Gallagher.ipynb)
 <br><br>
 * 小论文写作
-  * [基于图文评论综合分析的上海迪士尼旅游形象感知研究](https://maifile.cn/pdf/a75038158921.pdf) 2021.05
-  * [新冠疫情下的微博内容主题挖掘—基于 LDA 与 CorEx 主题模型的文本内容细粒度分析](https://maifile.cn/pdf/a77068160405.pdf) 2020.06
+  * [基于图文评论综合分析的上海迪士尼旅游形象感知研究] 2021.05
+  * [新冠疫情下的微博内容主题挖掘—基于 LDA 与 CorEx 主题模型的文本内容细粒度分析] 2020.06
